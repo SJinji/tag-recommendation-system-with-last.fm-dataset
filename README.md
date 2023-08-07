@@ -35,7 +35,7 @@ To assess the performance and understand the effectiveness of the tag recommenda
 
 - Visualization Techniques:
     - **Random Tag Similarity Heatmap**: A heatmap showing similarities between randomly selected tags, helping visualize tag relationships. 
-    - **User-Specific Tag Similarity Heatmap**: Displays similarities between a artist's true tags and the recommended tags, assisting in understanding how recommendations align with user preferences. 
+    - **User-Specific Tag Similarity Heatmap**: Displays similarities between an artist's true tags and the recommended tags, assisting in understanding how recommendations align with user preferences. 
     - **Ranked Positions of True Tags Histogram**: A histogram showing the ranked positions of true tags among recommendations, giving insights into the quality of recommendations. 
 
 The combination of traditional evaluation metrics and visualization techniques provides both a quantitative and visual understanding of the recommendation system's performance, enabling a more comprehensive analysis.
