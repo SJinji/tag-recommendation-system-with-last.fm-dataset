@@ -53,10 +53,10 @@ The combination of traditional evaluation metrics and visualization techniques p
 To use the code, ensure that you have the required libraries installed and follow the functions and scripts provided. Preprocess the tag data, train the Word2Vec model or use BERT for embeddings, and apply visualization or evaluation methods as needed.
 
 ## References
-[1] [https://towardsdatascience.com/making-music-tagging-ai-explainable-through-source-separation-2d9493547a7e](https://www.intechopen.com/chapters/64576)https://www.intechopen.com/chapters/64576
-[2] https://towardsdatascience.com/the-best-document-similarity-algorithm-in-2020-a-beginners-guide-a01b9ef8cf05
-[3] https://github.com/yaxue1123/data-analysis-of-last.fm
-[4] https://github.com/Crone1/Last.fm-Recommender-System/tree/main
-[5] https://github.com/cipher813/recommender_system/tree/master
-[6] https://github.com/JohnsonKuan/movie-rec-tags/blob/master/Movie-Rec-Movielens-Tags.ipynb
-[7] https://www.kaggle.com/code/sobrinomario/a-tag-based-recommender-system-for-careervillage
+[1] [https://towardsdatascience.com/making-music-tagging-ai-explainable-through-source-separation-2d9493547a7e](https://www.intechopen.com/chapters/64576)https://www.intechopen.com/chapters/64576  
+[2] https://towardsdatascience.com/the-best-document-similarity-algorithm-in-2020-a-beginners-guide-a01b9ef8cf05  
+[3] https://github.com/yaxue1123/data-analysis-of-last.fm  
+[4] https://github.com/Crone1/Last.fm-Recommender-System/tree/main  
+[5] https://github.com/cipher813/recommender_system/tree/master  
+[6] https://github.com/JohnsonKuan/movie-rec-tags/blob/master/Movie-Rec-Movielens-Tags.ipynb  
+[7] https://www.kaggle.com/code/sobrinomario/a-tag-based-recommender-system-for-careervillage  
